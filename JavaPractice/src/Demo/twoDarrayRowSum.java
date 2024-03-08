@@ -1,6 +1,6 @@
 package Demo;
 
-public class praftice {
+public class twoDarrayRowSum {
 
 	public static void main(String[] args) {
 	

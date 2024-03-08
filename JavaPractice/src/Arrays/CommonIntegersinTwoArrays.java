@@ -8,7 +8,7 @@ public class CommonIntegersinTwoArrays {
 		int a[] = {1,2,3,4,7,6,5};
 		int b[] = {1,3,7,5,9,0,8};
 		
-		HashSet<Integer> set = new HashSet();
+		HashSet<Integer> set = new HashSet<>();
 		
 		for(int i=0; i<a.length; i++) {
 			for(int j=0; j<b.length; j++) {

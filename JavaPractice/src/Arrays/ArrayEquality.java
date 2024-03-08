@@ -6,7 +6,7 @@ public class ArrayEquality {
 
 	public static void main(String[] args) {
 		int a[] = {1,5,7,2,3};
-		int b[] = {1,5,7,2,4};
+		int b[] = {1,5,7,2,3};
 		
 		//Method 1
 		/*

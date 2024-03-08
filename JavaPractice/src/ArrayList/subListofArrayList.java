@@ -26,10 +26,7 @@ public class subListofArrayList {
 		
 		System.out.println(sub_array);
 		
-		
 	}
-	
-
 }
 
 

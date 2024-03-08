@@ -13,9 +13,7 @@ public class MirrorImage {
 
 			if(a[i]==a[size-i-1]) {
 				image=true;
-
 			}
-			
 			size--;
 		}
 

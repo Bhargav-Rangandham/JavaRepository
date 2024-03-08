@@ -8,7 +8,7 @@ public class FindfXSuminArray {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("Enter the Num to find: ");
 		int n = scn.nextInt();
-		int a[] = {3,4,7,9,2,5,6};
+		int a[] = {3,4,7,9,2,5,6,1,8};
 
 		for(int i=0; i<a.length;i++) {//0
 			for(int j=0; j<a.length-1-i; j++) {//0

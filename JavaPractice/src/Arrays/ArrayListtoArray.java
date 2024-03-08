@@ -21,7 +21,7 @@ public class ArrayListtoArray {
 		list.toArray();
 		
 		for(int x : list) {
-			System.out.println(x);
+			System.out.print(x+" ");
 		}
 	}
 
